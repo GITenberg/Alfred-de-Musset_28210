@@ -1,0 +1,31 @@
+_repo: Alfred-de-Musset_28210
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barine, Arvède
+    aliases:
+    - Vincens, Cecile
+    - Vincens, Cécile
+    - Barine, Arvede
+    birthdate: 1840
+    deathdate: 1908
+    gutenberg_agent_id: '33205'
+    url: http://www.gutenberg.org/2009/agents/33205
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2009-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28210'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Musset, Alfred de, 1810-1857'
+title: Alfred de Musset
+url: http://www.gutenberg.org/ebooks/28210
